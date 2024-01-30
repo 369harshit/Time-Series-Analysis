@@ -31,6 +31,6 @@ Insight Generation: Extracted actionable insights for stakeholders.
 
 Results: Produced a succinct analysis report with targeted insights for optimizing individual cow milk production.
 
-Tools Used: Python (Pandas, NumPy, Statsmodels), Data visualization (Matplotlib, Seaborn), Time series analysis (Prophet, ARIMA)
+Tools Used: Python (Pandas, NumPy, Statsmodels), Data visualization (Matplotlib, Seaborn), Time series analysis (ARIMA & Seasonal-ARIMA)
 
 Impact: Enhanced strategies for maximizing milk production efficiency on a per-cow basis in the dairy industry.
